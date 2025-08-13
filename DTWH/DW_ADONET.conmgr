@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MEURSAULT_DW.data_warehouse"
+  DTS:DTSID="{AF602A22-855F-448F-B9A5-17D0618C62C9}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=MEURSAULT\DW;Initial Catalog=data_warehouse;Integrated Security=True;Application Name=SSIS-DTWH-{AF602A22-855F-448F-B9A5-17D0618C62C9}MEURSAULT\DW.data_warehouse;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

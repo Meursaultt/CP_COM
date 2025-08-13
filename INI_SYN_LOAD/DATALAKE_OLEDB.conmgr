@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LOCALHOST_DATALAKE.STAGING1"
+  DTS:DTSID="{3437D594-F4E1-4B4B-8971-F872C9022224}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LOCALHOST\DATALAKE;Initial Catalog=STAGING;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-INI_SYN_LOAD-{3437D594-F4E1-4B4B-8971-F872C9022224}LOCALHOST\DATALAKE.STAGING1;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

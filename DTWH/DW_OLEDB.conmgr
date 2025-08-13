@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MEURSAULT_DW.data_warehouse1"
+  DTS:DTSID="{A9130347-CFA7-4224-B12F-CDF5CD4655E8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MEURSAULT\DW;Initial Catalog=data_warehouse;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-DTWH-{A9130347-CFA7-4224-B12F-CDF5CD4655E8}MEURSAULT\DW.data_warehouse1;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

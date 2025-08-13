@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DATALAKE_ADDONET"
+  DTS:DTSID="{FD0342C5-B209-4DB2-A28A-703F4733175F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LOCALHOST\DATALAKE;Initial Catalog=STAGING;Integrated Security=True;Application Name=SSIS-INI_FULL_LOAD-{FD0342C5-B209-4DB2-A28A-703F4733175F}LOCALHOST\DATALAKE.STAGING;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36128.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "INI_FULL_LOAD", "INI_FULL_LOAD\INI_FULL_LOAD.dtproj", "{6E37E884-64BB-47AD-9E64-8720A6AB1A2E}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "INI_SYN_LOAD", "INI_SYN_LOAD\INI_SYN_LOAD.dtproj", "{BEDB0DFB-0E3D-4D9F-BA9F-52E9D7AFD026}"
+EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DTWH", "DTWH\DTWH.dtproj", "{29EE664E-78A2-4D73-89E5-4EA77DDA3449}"
+EndProject
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "CUBE", "CUBE\CUBE.smproj", "{8CE414BB-95B2-4C99-9E03-51BA72086E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E37E884-64BB-47AD-9E64-8720A6AB1A2E}.Development|x86.ActiveCfg = Development
+		{6E37E884-64BB-47AD-9E64-8720A6AB1A2E}.Development|x86.Build.0 = Development
+		{BEDB0DFB-0E3D-4D9F-BA9F-52E9D7AFD026}.Development|x86.ActiveCfg = Development
+		{BEDB0DFB-0E3D-4D9F-BA9F-52E9D7AFD026}.Development|x86.Build.0 = Development
+		{29EE664E-78A2-4D73-89E5-4EA77DDA3449}.Development|x86.ActiveCfg = Development
+		{29EE664E-78A2-4D73-89E5-4EA77DDA3449}.Development|x86.Build.0 = Development
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.ActiveCfg = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Build.0 = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFED3F20-6AD9-4178-A5CD-0C9C41A4CA60}
+	EndGlobalSection
+EndGlobal
